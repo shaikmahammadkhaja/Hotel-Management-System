@@ -16,7 +16,7 @@
       size: "28 m²",
       beds: "1 Queen",
       guests: 2,
-      img: "images/room-standard.png",
+      img: "room-standard.png",
       desc: "A cozy, light-filled retreat with a plush queen bed and garden views — perfect for solo travelers or couples.",
     },
     {
@@ -29,7 +29,7 @@
       size: "40 m²",
       beds: "1 King",
       guests: 3,
-      img: "images/room-deluxe.png",
+      img: "room-deluxe.png",
       desc: "Spacious elegance with a king bed, lounge nook, and floor-to-ceiling city views. Refined comfort throughout.",
     },
     {
@@ -42,7 +42,7 @@
       size: "65 m²",
       beds: "1 King + Sofa",
       guests: 4,
-      img: "images/room-suite.png",
+      img: "room-suite.png",
       desc: "A separate living area, marble bath, and breathtaking ocean panorama define this signature suite.",
     },
     {
@@ -55,7 +55,7 @@
       size: "90 m²",
       beds: "1 King + Study",
       guests: 4,
-      img: "images/room-executive.png",
+      img: "room-executive.png",
       desc: "The pinnacle of luxury — private terrace, panoramic skyline, dedicated butler, and bespoke furnishings.",
     },
   ];
